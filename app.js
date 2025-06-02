@@ -1,6 +1,6 @@
 const { useState, useEffect } = React;
 
-const words = ["apple", "banana", "cherry", "grape", "orange", "pear", "peach", "plum", "melon", "mango"];
+const words = ["apple", "banana", "cherry", "grape", "orange", "pear", "peach", "plum", "melon", "mango", "Watermelon"];
 
 function shuffle(src) {
   const copy = [...src];
